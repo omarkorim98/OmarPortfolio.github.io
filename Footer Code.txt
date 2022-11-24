@@ -1,0 +1,14 @@
+!-- Footer --
+							footer
+								div class=pagination
+									!--a href=# class=previousPreva--
+									a href=# class=page active1a
+									a href=# class=page2a
+									a href=# class=page3a
+									span class=extra&hellip;span
+									a href=# class=page8a
+									a href=# class=page9a
+									a href=# class=page10a
+									a href=# class=nextNexta
+								div
+							footer
